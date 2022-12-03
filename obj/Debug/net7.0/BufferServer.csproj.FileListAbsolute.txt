@@ -1,0 +1,15 @@
+/workspaces/BufferServer/bin/Debug/net7.0/BufferServer
+/workspaces/BufferServer/bin/Debug/net7.0/BufferServer.deps.json
+/workspaces/BufferServer/bin/Debug/net7.0/BufferServer.runtimeconfig.json
+/workspaces/BufferServer/bin/Debug/net7.0/BufferServer.dll
+/workspaces/BufferServer/bin/Debug/net7.0/BufferServer.pdb
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.csproj.AssemblyReference.cache
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.AssemblyInfoInputs.cache
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.AssemblyInfo.cs
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.csproj.CoreCompileInputs.cache
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.dll
+/workspaces/BufferServer/obj/Debug/net7.0/refint/BufferServer.dll
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.pdb
+/workspaces/BufferServer/obj/Debug/net7.0/BufferServer.genruntimeconfig.cache
+/workspaces/BufferServer/obj/Debug/net7.0/ref/BufferServer.dll
