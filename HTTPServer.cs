@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BufferServer{
     class HTTPServer{
-        public static HttpListener listener = new HttpListener();
+        public static List<BufferItem> mBuffer  = new List<BufferItem>();
+        public static HttpListener listener     = new HttpListener();
         public static string default_url        = "http://localhost:8000/";
         public static int requestCount          = 0;
         public static string default_response   = "<Default Response>";
